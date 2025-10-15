@@ -1306,3 +1306,6 @@ img.img-fluid.p-2.scale-up-center {
   height: 10px !important;
   border-radius: 50%;
 }
+.text-primary-theme {
+  color: var(--colorSecondary);
+}
